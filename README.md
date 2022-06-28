@@ -11,16 +11,16 @@
 
           
 ### Introducción:
-El E3 es un evento que se realizaba de formar presencial con anterioridad. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
+El E3 es un evento que se realizaba de forma presencial con anterioridad. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
 
 ### Objetivo:
-Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el modo de presencial a en línea, se busca de alguna manera, seguir teniendo esa interacción con los usuarios.
+Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el modo presencial a en línea, se busca de alguna manera, seguir teniendo esa interacción con los usuarios.
 
 ### Arquitectura del proyecto
 
 * Diseño de Interfaz a realizar
 * Proyecto realizado con Django
-* Docker y Postgresql para la bade de datos
+* Docker y Postgresql para la base de datos
 
 
 <section>
@@ -36,12 +36,12 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
     <li>Articulos</li>
   </ul>
 
-  <p>Se diseñaron wireframes de baja fidelidad donde se plasmaba los procesos que se habian obtenido de la investigación:
+  <p>Se diseñaron wireframes de baja fidelidad donde se plasmaba los procesos que se habían obtenido de la investigación:
 
   <img src='./src/img/Low.png'>
 
   <h4>Diseños de alta fidelidad</h4>
-  <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajaó en los prototipos de alta fidelidad</p>
+  <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajó en los prototipos de alta fidelidad</p>
   <img src='./src/img/Home.png'>
   <img src='./src/img/Login.png'>
   <img src='./src/img/Register.png'>
@@ -57,14 +57,14 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 
   <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
   <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
-  <p>Serealizaron 4 apps dentro del proyecto</p>
+  <p>Se realizaron 4 apps dentro del proyecto</p>
   
   <img src='./src/img/Proyecto.png'> 
 
 </section>
   
 <section id="backend">
-  <h3>3. Docker y Postgresql para la bade de datos</h3>
+  <h3>3. Docker y Postgresql para la base de datos</h3>
 
   <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
   <p>Se trabajaron 3 modelos</p>
