@@ -23,7 +23,7 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
 2. Docker y Postgresql para la base de datos
 3. Proyecto realizado con Django
 4. Diseño Ui de la interfaz de Usuario
-
+5. Demo de Proyecto
 
 
 <section>
@@ -68,6 +68,11 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
   <img src='./src/img/Dashboard.png'>
   <img src='./src/img/Modal.png'>
   <img src='./src/img/Stand.png'>
+</section>
+
+<section id="uid">
+  <h3>5. Demo del Proyecto</h3>
+   <p>Se hará un Live Demo desde la página de home, haciendo un login de usuario, se visualizará el dashboard y herramientas, y finalizando con un post a los stands.</p>   
 </section>
 
 
