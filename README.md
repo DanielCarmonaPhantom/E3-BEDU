@@ -1,15 +1,14 @@
 <img src='./src/img/Titular.png'>
 
 # E3-BEDU
-
-## Proyecto Final de Módulo Django
-
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 
-          
+
+## Proyecto Final de Módulo Django
+   
 ### Introducción:
 El E3 es un evento que se realizaba de forma presencial con anterioridad. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
 
