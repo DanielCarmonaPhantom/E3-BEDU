@@ -16,10 +16,10 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 * Proyecto realizado con Django
 * Docker y Postgresql para la bade de datos
 
-### Desarrollo
 
 <section>
   <h3>1. Diseño de Interfaz a realizar</h3>
+  
   <p>A partir de la investigación, obtuvimos para la arquitectura de nuestro sitio el siguiente esquema:</p>
 
   <ul>
@@ -34,14 +34,26 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 
   <img src='./src/img/Low.png'>
 
+  <h4>Diseños de alta fidelidad</h4>
+  <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajaó en los prototipos de alta fidelidad</p>
+  <img src='./src/img/Home.png'>
+  <img src='./src/img/Login.png'>
+  <img src='./src/img/Register.png'>
+  <img src='./src/img/Dashboard.png'>
+  <img src='./src/img/Modal.png'>
+  <img src='./src/img/Stand.png'>
+
+
 </section>
 
 <section id="backend">
-  <h3>2. Desarrollo de Backend con Node.js y API Rest con Express.js</h3>
-  <p>Se trabajo todo lo aprendido en clase para levantar un servidor donde se estructuró una API rest para la pastelería.</p>
+  <h3>2. Proyecto realizado con Django</h3>
+
+
+  <!-- <p>Se trabajo todo lo aprendido en clase para levantar un servidor donde se estructuró una API rest para la pastelería.</p>
   <p>Se empezo trabajando con las principales routas que tendriamos para la aplicación. Se mantuvo la ideología de una Clean Architecture al crear una capa de servicios de cada uno de nuestros enpoints.<p>
   <p>Despues se incorporaron middlawares para espuesta de servidor, así como para validar los datos de entrada.</p>
-  <p>Se incorporo un ORM para el manejo de la base de datos y se levanto un contenedor en PostgreSQL y de pgAdmin</p>
+  <p>Se incorporo un ORM para el manejo de la base de datos y se levanto un contenedor en PostgreSQL y de pgAdmin</p> -->
   <img src='./design/REST_API.jpg'> 
 </section>
   
