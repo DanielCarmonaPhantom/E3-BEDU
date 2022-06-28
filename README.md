@@ -15,7 +15,7 @@
 El E3 es un evento que se realizaba anteriormente de forma presencial. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
 
 ### Objetivo:
-Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el modo presencial a en línea, se busca de alguna manera, seguir teniendo esa interacción con los usuarios.
+Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo presencial a en línea, se busca de alguna manera, seguir teniendo esa interacción con los usuarios.
 
 ### Arquitectura del proyecto
 
