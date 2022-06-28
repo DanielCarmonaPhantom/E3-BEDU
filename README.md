@@ -1,4 +1,5 @@
 <img src='./src/img/Titular.png'>
+
 # E3-BEDU
 
 ## Proyecto Final de Módulo Django
@@ -29,7 +30,7 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
     <li>Articulos</li>
   </ul>
 
-  <p>Se diseñador wireframes de baja fidelidad donde se realizaba los procesos que se habian tenido de la investigación:
+  <p>Se diseñaron wireframes de baja fidelidad donde se plasmaba los procesos que se habian obtenido de la investigación:
 
   <img src='./src/img/Low.png'>
 
