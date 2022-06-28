@@ -18,8 +18,9 @@ Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el m
 ### Arquitectura del proyecto
 
 1. Diseño de Interfaz a realizar
-2. Proyecto realizado con Django
-3. Docker y Postgresql para la base de datos
+2. Docker y Postgresql para la base de datos
+3. Proyecto realizado con Django
+
 
 
 <section>
@@ -53,8 +54,18 @@ Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el m
 
 </section>
 
+<section id="docker">
+  <h3>2. Docker y Postgresql para la base de datos</h3>
+
+  <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
+  <p>Se trabajaron 3 modelos</p>
+
+  
+  <img src='./src/img/Diagrama.png'> 
+
+</section>
 <section id="backend">
-  <h3>2. Proyecto realizado con Django</h3>
+  <h3>3. Proyecto realizado con Django</h3>
 
   <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
   <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
@@ -64,14 +75,5 @@ Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el m
 
 </section>
   
-<section id="backend">
-  <h3>3. Docker y Postgresql para la base de datos</h3>
 
-  <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
-  <p>Se trabajaron 3 modelos</p>
-
-  
-  <img src='./src/img/Diagrama.png'> 
-
-</section>
 
