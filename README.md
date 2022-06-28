@@ -20,11 +20,14 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 <section>
   <h3>1. Diseño de Interfaz a realizar</h3>
   <p>A partir de la investigación, obtuvimos para la arquitectura de nuestro sitio el siguiente esquema:</p>
-  * Home
-  * Login
-  * Dashboard
-  * Stands
-  * Artículos
+
+  <ul>
+    <li>Home</li>
+    <li>Login</li>
+    <li>Dashboard</li>
+    <li>Stands</li>
+    <li>Articulos</li>
+  </ul>
 
   <p>Se diseñador wireframes de baja fidelidad donde se realizaba los procesos que se habian tenido de la investigación:
 
