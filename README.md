@@ -52,6 +52,9 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
   <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
   <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
   <p>Serealizaron 4 apps dentro del proyecto</p>
+  
+  <img src='./src/img/Diagrama.png'>
+  
 
 </section>
   
