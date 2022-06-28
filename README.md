@@ -19,14 +19,15 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
 
 ### Arquitectura del proyecto
 
-1. Diseño de Interfaz a realizar
+1. Problemnt Statement e Investigación de Usario
 2. Docker y Postgresql para la base de datos
 3. Proyecto realizado con Django
+4. Diseño Ui de la interfaz de Usuario
 
 
 
 <section>
-  <h3>1. Diseño de Interfaz a realizar</h3>
+  <h3>1. Problemnt Statement e Investigación de Usario</h3>
   
   <p>A partir de la investigación, obtuvimos para la arquitectura de nuestro sitio el siguiente esquema:</p>
 
@@ -39,43 +40,34 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
   </ul>
 
   <p>Se diseñaron wireframes de baja fidelidad donde se plasmaba los procesos que se habían obtenido de la investigación:
-
   <img src='./src/img/Low.png'>
+</section>
 
-  <h4>Diseños de alta fidelidad</h4>
+<section id="docker">
+  <h3>2. Docker y Postgresql para la base de datos</h3>
+  <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
+  <p>Se trabajaron 3 modelos</p>  
+  <img src='./src/img/Diagrama.png'> 
+</section>
+
+<section id="backend">
+  <h3>3. Proyecto realizado con Django</h3>
+  <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
+  <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
+  <p>Se realizaron 4 apps dentro del proyecto</p>  
+  <img src='./src/img/Proyecto.png'> 
+</section>
+  
+<section id="uid">
+  <h3>4. Diseño Ui de la interfaz de Usuario</h3>
    
-  <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajó en los prototipos de alta fidelidad</p>
-   
+  <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajó en los prototipos de alta fidelidad</p>   
   <img src='./src/img/Home.png'>
   <img src='./src/img/Login.png'>
   <img src='./src/img/Register.png'>
   <img src='./src/img/Dashboard.png'>
   <img src='./src/img/Modal.png'>
   <img src='./src/img/Stand.png'>
-
-
 </section>
-
-<section id="docker">
-  <h3>2. Docker y Postgresql para la base de datos</h3>
-
-  <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
-  <p>Se trabajaron 3 modelos</p>
-
-  
-  <img src='./src/img/Diagrama.png'> 
-
-</section>
-<section id="backend">
-  <h3>3. Proyecto realizado con Django</h3>
-
-  <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
-  <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
-  <p>Se realizaron 4 apps dentro del proyecto</p>
-  
-  <img src='./src/img/Proyecto.png'> 
-
-</section>
-  
 
 
