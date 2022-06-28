@@ -73,6 +73,7 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
 <section id="uid">
   <h3>5. Demo del Proyecto</h3>
    <p>Se hará un Live Demo desde la página de home, haciendo un login de usuario, se visualizará el dashboard y herramientas, y finalizando con un post a los stands.</p>   
+   <img src='./src/img/LiveDemo.png'> 
 </section>
 
 
