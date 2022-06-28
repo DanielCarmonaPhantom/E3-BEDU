@@ -12,7 +12,7 @@
 ## Proyecto Final de Módulo Django
    
 ### Introducción:
-El E3 es un evento que se realizaba de forma presencial con anterioridad. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
+El E3 es un evento que se realizaba anteriorirmente de forma presencial. Al llegar la pandemia, tuvo que ser cancelado como muchos eventos. 
 
 ### Objetivo:
 Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el modo presencial a en línea, se busca de alguna manera, seguir teniendo esa interacción con los usuarios.
