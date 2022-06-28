@@ -49,26 +49,10 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 <section id="backend">
   <h3>2. Proyecto realizado con Django</h3>
 
-  <p>Hola </p>
-  <!-- <p>Se trabajo todo lo aprendido en clase para levantar un servidor donde se estructuró una API rest para la pastelería.</p>
-  <p>Se empezo trabajando con las principales routas que tendriamos para la aplicación. Se mantuvo la ideología de una Clean Architecture al crear una capa de servicios de cada uno de nuestros enpoints.<p>
-  <p>Despues se incorporaron middlawares para espuesta de servidor, así como para validar los datos de entrada.</p>
-  <p>Se incorporo un ORM para el manejo de la base de datos y se levanto un contenedor en PostgreSQL y de pgAdmin</p> -->
-  <img src='./design/REST_API.jpg'> 
+  <p>Se empezo levantando el proyecto de Cokiecutter Django</p>
+  <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
+  <p>Serealizaron 4 apps dentro del proyecto</p>
+
 </section>
   
-<section id="one">
-  <h3>3. Base de datos con PostgreSQL.</h3>  
-  <p>Teniendo ya las rutas para las peticiones de datos, se trabajo en el ORM para diseñar las tablas donde estarian nuestros datos.</p>
-  <p>Se diseñaron las siguientes tablas:</p>
-  <img src='./bd/Diagrama5.jpg'> 
-</section>
 
-
- 
-<section id="frontend">
-  <h3>5. Diseño Frontend de la aplicación web.</h3>  
-  <p>Se empezo la maquetación de la página web del diseño de WireFrames de alta fidelidad. Se trabajarón cada uno de los eventos que realizaría la página y los botones, y despues se trabajo con el DOM para pintar cada petición.</p>
-  <img src='./design/2022-04-05 18-25-37.gif'> 
-  
-</section>
