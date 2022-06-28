@@ -53,9 +53,18 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
   <p>Para hacer el inicio de sesión y registro trabajamos con las loginview</p>
   <p>Serealizaron 4 apps dentro del proyecto</p>
   
-  <img src='./src/img/Diagrama.png'>
-  
+  <img src='./src/img/Proyecto.png'> 
 
 </section>
   
+<section id="backend">
+  <h3>3. Docker y Postgresql para la bade de datos</h3>
+
+  <p>Se trabajo con instancias de Docker para ejecutar Postgresql</p>
+  <p>Se trabajaron 3 modelos</p>
+
+  
+  <img src='./src/img/Diagrama.png'> 
+
+</section>
 
