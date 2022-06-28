@@ -49,7 +49,7 @@ Diseñar un witio web en el que pueda realizarse el evento. Al intercambiar el m
 <section id="backend">
   <h3>2. Proyecto realizado con Django</h3>
 
-
+  <p>Hola </p>
   <!-- <p>Se trabajo todo lo aprendido en clase para levantar un servidor donde se estructuró una API rest para la pastelería.</p>
   <p>Se empezo trabajando con las principales routas que tendriamos para la aplicación. Se mantuvo la ideología de una Clean Architecture al crear una capa de servicios de cada uno de nuestros enpoints.<p>
   <p>Despues se incorporaron middlawares para espuesta de servidor, así como para validar los datos de entrada.</p>
