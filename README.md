@@ -17,9 +17,9 @@ Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el m
 
 ### Arquitectura del proyecto
 
-* Diseño de Interfaz a realizar
-* Proyecto realizado con Django
-* Docker y Postgresql para la base de datos
+1. Diseño de Interfaz a realizar
+2. Proyecto realizado con Django
+3. Docker y Postgresql para la base de datos
 
 
 <section>
@@ -40,7 +40,9 @@ Diseñar un sitio web en el que pueda realizarse el evento. Al intercambiar el m
   <img src='./src/img/Low.png'>
 
   <h4>Diseños de alta fidelidad</h4>
+   
   <p>Se empezo todo el proceso de diseño donde a partir de un moodboard y un style guide, se trabajó en los prototipos de alta fidelidad</p>
+   
   <img src='./src/img/Home.png'>
   <img src='./src/img/Login.png'>
   <img src='./src/img/Register.png'>
