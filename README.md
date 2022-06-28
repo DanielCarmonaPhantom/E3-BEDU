@@ -1,4 +1,4 @@
-<img src='src/img/>Titular.png'>
+<img src='./src/img/Titular.png'>
 
 
 # E3-BEDU
