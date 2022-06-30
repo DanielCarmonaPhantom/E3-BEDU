@@ -76,4 +76,5 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
    <img src='./src/img/LiveDemo.png'> 
 </section>
 
+Gracias.
 
