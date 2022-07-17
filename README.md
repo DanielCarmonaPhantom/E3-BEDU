@@ -58,6 +58,7 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
   <img src='./src/img/Proyecto.png'> 
 </section>
 
+```
 < PROJECT ROOT >
    |
    |-- core/                               # Implements app logic and serve the static assets
@@ -98,6 +99,8 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
    |
    |-- ************************************************************************
   
+  
+ 
 <section id="uid">
   <h3>4. Diseño Ui de la interfaz de Usuario</h3>
    
