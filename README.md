@@ -98,7 +98,7 @@ Diseñar un sitio web donde se pueda realizar el evento. Al intercambiar el modo
    |-- manage.py                           # Start the app - Django default start script
    |
    |-- ************************************************************************
-  
+```  
   
  
 <section id="uid">
